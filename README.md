@@ -71,9 +71,3 @@ Direct YouTube links from the modules:
 - Instructors and students in IoT, embedded systems, and digital manufacturing.
 - Product and solution teams building Digital Twin demos or pilots.
 - Engineers validating data flow from edge devices to cloud/server systems.
-
-## Quick Start
-
-1. Open [M1-Introduction.md](./M1-Introduction.md).
-2. Follow the modules sequentially to [M8-Send-Data-to-Server.md](./M8-Send-Data-to-Server.md).
-3. Use images under `assets/` for guided walkthroughs and classroom/demo support.
