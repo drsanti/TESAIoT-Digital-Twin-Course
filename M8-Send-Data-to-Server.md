@@ -1,4 +1,4 @@
-# M8 - Credential Setup and Right Panel Visualization: เชื่อมต่ออย่างน่าเชื่อถือและมองเห็นสุขภาพ Server แบบเรียลไทม์
+# M8 - Sending Simulation Data to TLS-Server: เชื่อมต่ออย่างน่าเชื่อถือและมองเห็นสุขภาพ Server แบบเรียลไทม์
 
 ## Introduction
 
@@ -67,7 +67,7 @@
 
 ## ขั้นตอนตั้งค่า Credential (Step-by-step)
 
-วิดีโอสาธิตสำหรับทำตามทีละขั้น: [Credential Setup and Right Panel Demo (M8)](https://youtu.be/8UUb6yPx4WU)
+วิดีโอสาธิตสำหรับทำตามทีละขั้น: [Sending Simulation Data to TLS-Server Demo (M8)](https://youtu.be/8UUb6yPx4WU)
 
 [![Watch M8 Demo on YouTube](https://img.youtube.com/vi/8UUb6yPx4WU/hqdefault.jpg)](https://youtu.be/8UUb6yPx4WU)
 

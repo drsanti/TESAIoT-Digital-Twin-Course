@@ -1,4 +1,4 @@
-# M6 - Model Catalog: จัดการและพรีวิวโมเดลในคลังอย่างเป็นระบบ
+# M6 - Model Catalog and Thumbnail Creator: จัดการและพรีวิวโมเดลในคลังอย่างเป็นระบบ
 
 ## Introduction
 

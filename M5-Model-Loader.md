@@ -1,4 +1,4 @@
-# M5 - Model Loader: นำเข้าโมเดลจาก TESAIoT Product Store
+# M5 - Using Models and Assets given by TESAIoT Model Store (Model Loader): นำเข้าโมเดลจาก TESAIoT Product Store
 
 ## Introduction
 

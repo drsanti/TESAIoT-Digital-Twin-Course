@@ -1,4 +1,4 @@
-# M7 - Motion Simulation: ทดสอบการเคลื่อนไหวแบบอัตโนมัติและแบบหมุนด้วยมือ
+# M7 - 3D Object Motion Simulation (Auto & Manual Modes): ทดสอบการเคลื่อนไหวแบบอัตโนมัติและแบบหมุนด้วยมือ
 
 ## Introduction
 
