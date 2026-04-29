@@ -21,6 +21,7 @@ From concept to real-world simulation, this course helps you build practical Dig
 - [Course Videos](#course-videos)
 - [Recommended Study Flow](#recommended-study-flow)
 - [Who This Is For](#who-this-is-for)
+- [Pre-test](#pre-test)
 - [Explore More](#explore-more)
 
 ## Course Trailer
@@ -79,8 +80,13 @@ Direct YouTube links from the modules:
 - Product and solution teams building Digital Twin demos or pilots.
 - Engineers validating data flow from edge devices to cloud/server systems.
 
+## Pre-test
+
+- Start pre-test here: [Pre-test Questions (M1 and M8)](./Pre-test-Questions.md)
+
 ## Explore More
 
 - Full trailer page: [Course Trailer (Course Preview)](./Course-Trailer-Course-Preview.md)
 - Full benefits page: [What's your benefit?](./Whats-your-benefit.md)
+- Pre-test questions: [Pre-test Questions (M1 and M8)](./Pre-test-Questions.md)
 - Start now: [M1-Introduction.md](./M1-Introduction.md)
